@@ -15,9 +15,6 @@ public class Test {
 		if(ChromeCasts.get().size()>0)
 			chromecast = ChromeCasts.get().get(0);
 		
-		
-		System.out.println(chromecast.getStatus().toString());
-		
 	}
 
 }
